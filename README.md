@@ -9,7 +9,7 @@ In this project JavaScript has access to a  browser’s audio stream and to conv
 
 It is a good idea to implement this API in your website in case you are looking for a voice command to navigate in your website.
 
-# The API can be used on Google Chrome and FireFox (manual input).
+### The API can be used on Google Chrome and FireFox (manual input).
 You can see how it looks by visiting the following website:
 https://voicerecog.netlify.com/
 
