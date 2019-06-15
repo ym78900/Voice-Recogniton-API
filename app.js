@@ -13,6 +13,7 @@ let white = "Why not black, you dont like it or its not your color";
 let other = "oh my god, why dont you pay attention to the question?";
 
 const recognition = new SpeechRecognition();
+recognition.lang = "en-US";
 
 recognition.onstart = () => {
   console.log("voice is activated, talk to me beautiful");
