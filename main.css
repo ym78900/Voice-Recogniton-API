@@ -1,0 +1,14 @@
+.talk {
+  display: flex;
+  justify-content: center;
+  margin: 5px auto;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  font-size: 18px;
+}
